@@ -1,0 +1,17 @@
+form#chat{
+  width: 60%;
+  margin: 30px auto;
+  display: flex;
+  flex-direction: column;
+
+}
+form#chat input{
+  padding: 8px 16px;
+}
+form#chat .messages{
+  height: 150px;
+  border: 1px solid black;
+}
+form#chat .message{
+  font-size: 20px;
+}
